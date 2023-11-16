@@ -12,7 +12,7 @@
 #include <ESP8266WiFiMulti.h>
 ESP8266WiFiMulti wifiMulti;
 #define WIFI_SSID "GBUS-MESH"
-#define WIFI_PASSWORD "98manager"
+#define WIFI_PASSWORD "********"
 #define INFLUXDB_URL "http://192.168.10.50:8086"
 #define INFLUXDB_DB_NAME "powerstat"
 #define DEVICE "BQ27441"
